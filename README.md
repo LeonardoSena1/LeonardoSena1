@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # <a href="https://www.linkedin.com/in/leonardo-sena-2b43446a/">Leonardo Sena</a>
  
 ## About Me
-Tenho 24 anos e sou formado em Sistemas de Informação - Centro Universitário Eniac (Guarulhos, SP), formado em 2019.
+Tenho 25 anos e sou formado em Sistemas de Informação - Centro Universitário Eniac (Guarulhos, SP), formado em 2019.
 <br>
 Sou um desenvolvedor web, apaixonado pelo mundo de APIs e novas tecnologias.
 
