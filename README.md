@@ -24,8 +24,9 @@ Tenho 25 anos e sou formado em Sistemas de Informação - Centro Universitário 
 Sou um desenvolvedor web, apaixonado pelo mundo de APIs e novas tecnologias.
 
 ## Technologies
-- Front - End com HTML, CSS, JS e Angular
-- Back - End com .NetCore, C# e JavaScript
+- Front - End: HTML, CSS, JS, Angular e Flutter
+- Back - End: .NetCore, C#, JavaScript e Dart
+- Mobile: Flutter
 - Wordpress
 - UI Design utilizando Figma/Photoshop
 - Estudando React Native nas horas vagas
