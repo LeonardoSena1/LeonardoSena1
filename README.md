@@ -46,7 +46,7 @@ Sou um desenvolvedor web, apaixonado pelo mundo de APIs e novas tecnologias.
 
 
 ##  Contact Me
-- <a href="https://www.linkedin.com/in/leonardo-sena-2b43446a/">Linkedin</a>
+- <a href="https://www.linkedin.com/in/leonardo-bulcao-2b43446a/">Linkedin</a>
 - <a href="leonardo_sena1@hotmail.com">E-mail</a>
 - <a href="https://www.instagram.com/leonardo__sena/">Instagram Pessoal</a>
 - <a href="https://www.facebook.com/leonardo.seenaa/">Facebook Pessoal</a>
