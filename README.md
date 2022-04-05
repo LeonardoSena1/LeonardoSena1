@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ## About Me
 Tenho 26 anos e sou formado em Sistemas de Informação - Centro Universitário Eniac (Guarulhos, SP), formado em 2019.
 <br>
-Sou um desenvolvedor web, apaixonado pelo mundo de APIs e novas tecnologias.
+Sou um desenvolvedor Full Stack, apaixonado pelo mundo de APIs e novas tecnologias.
 
 ## Technologies
 - Front - End: HTML, CSS, JS, Angular e Flutter
