@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # <a href="https://www.linkedin.com/in/leonardo-sena-2b43446a/">Leonardo Sena</a>
  
 ## About Me
-Tenho 25 anos e sou formado em Sistemas de Informação - Centro Universitário Eniac (Guarulhos, SP), formado em 2019.
+Tenho 26 anos e sou formado em Sistemas de Informação - Centro Universitário Eniac (Guarulhos, SP), formado em 2019.
 <br>
 Sou um desenvolvedor web, apaixonado pelo mundo de APIs e novas tecnologias.
 
@@ -46,8 +46,12 @@ Sou um desenvolvedor web, apaixonado pelo mundo de APIs e novas tecnologias.
 
 
 ##  Contact Me
-- <a href="https://www.linkedin.com/in/leonardo-bulcao-2b43446a/">Linkedin</a>
-- <a href="leonardo_sena1@hotmail.com">E-mail</a>
-- <a href="https://www.instagram.com/leonardo__sena/">Instagram Pessoal</a>
-- <a href="https://www.facebook.com/leonardo.seenaa/">Facebook Pessoal</a>
+
+<div>
+<a href="https://www.instagram.com/leonardo__sena/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:leonardo_sena1@hotmail.com"><img src="https://img.shields.io/badge/outlook-0D69AE?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
+ <a href="https://www.facebook.com/leonardo.seenaa/" target="_blank"><img src="https://img.shields.io/badge/facebook-005799?logo=facebook&logoColor=white&style=for-the-badge" target="_blank"></a>   
+ <a href = "mailto:leonardosena24@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/leonardo-bulcao-2b43446a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 </div>
