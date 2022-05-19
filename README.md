@@ -25,7 +25,7 @@ Sou um desenvolvedor Full Stack, apaixonado pelo mundo de APIs e novas tecnologi
 
 ## Technologies
 - Front - End: HTML, CSS, JS, Angular e Flutter
-- Back - End: .NetCore, C#, JavaScript e Dart
+- Back - End: .NetCore, C#, JavaScript, Nodejs, TypeScript e Dart
 - Mobile: Flutter
 - Wordpress
 - UI Design utilizando Figma/Photoshop
@@ -53,6 +53,7 @@ Sou um desenvolvedor Full Stack, apaixonado pelo mundo de APIs e novas tecnologi
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+ <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 ##  Contact Me
 
