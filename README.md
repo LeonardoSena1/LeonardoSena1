@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 # <a href="https://www.linkedin.com/in/leonardo-sena-2b43446a/">Leonardo Oliveira Sena Bulcão</a>
  
 ## About Me
-Tenho 27 anos e sou formado em Sistemas de Informação - Centro Universitário Eniac (Guarulhos, SP), formado em 2017.
+Desde 2017, tenho focado na área de desenvolvimento de software, com um enfoque principal no Desenvolvimento Web, que é minha maior especialização.
 <br>
 Sou um desenvolvedor Full Stack, apaixonado pelo mundo de APIs e novas tecnologias.
+
+💻 Desenvolvedor Fullstack
 
 ## Technologies
 - Front - End: HTML, CSS, JS, Angular e Flutter
