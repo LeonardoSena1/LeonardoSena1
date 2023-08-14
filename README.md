@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 # <a href="https://www.linkedin.com/in/leonardo-sena-2b43446a/">Leonardo Oliveira Sena Bulcão</a>
  
 ## About Me
-Desde 2017, tenho focado na área de desenvolvimento de software, com um enfoque principal no Desenvolvimento Web, que é minha maior especialização.
-<br>
-Sou um desenvolvedor Full Stack, apaixonado pelo mundo de APIs e novas tecnologias.
+A partir de 2015, tenho direcionado minha energia para o campo do desenvolvimento de software, concentrando-me principalmente no Desenvolvimento Web, 
+que representa minha expertise mais significativa. Minha atuação engloba o espectro completo do desenvolvimento, e tenho uma paixão particular pelo 
+universo das APIs e pelas últimas inovações tecnológicas.
 
 💻 Desenvolvedor Fullstack
 
