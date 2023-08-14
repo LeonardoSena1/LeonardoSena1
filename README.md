@@ -22,18 +22,42 @@ Here are some ideas to get you started:
 A partir de 2015, tenho direcionado minha energia para o campo do desenvolvimento de software, concentrando-me principalmente no Desenvolvimento Web, 
 que representa minha expertise mais significativa. Minha atuação engloba o espectro completo do desenvolvimento, e tenho uma paixão particular pelo 
 universo das APIs e pelas últimas inovações tecnológicas.
-
-💻 Desenvolvedor Fullstack
-
-## Technologies
-- Front - End: HTML, CSS, JS, Angular e Flutter
-- Back - End: .NetCore, C#, JavaScript, Nodejs, TypeScript e Dart
-- Mobile: Flutter
-- Wordpress
-- UI Design utilizando Figma/Photoshop
-
 <br>
- 
+<br>
+💻 Desenvolvedor Fullstack
+<br>
+```csharp
+public class AboutMe
+{
+    public string Username { get; set; } = "Leonardo";
+
+    public List<string> Hobbies { get; set; } = new List<string>
+    {
+        "Escutar música",            
+        "Aprender algo novo",
+        "Passar dias procurando formas de melhorar meu código..",
+        "Fazer exercicio físico",
+        "Jogar"
+    };
+
+    public List<string> Technologies { get; set; } = new List<string>
+    {
+        "Front - End: HTML, CSS, JS, Angular e Flutter",            
+        "Back - End: .NetCore, C#, JavaScript, Nodejs, TypeScript e Dart",
+        "Mobile: Flutter",
+        "SQL Server, MySQL e SQLite",
+        "Wordpress",
+        "UI Design utilizando Figma/Photoshop"
+    };
+
+    public string Address()
+    {
+        return "Guarulhos-SP";
+    }
+}
+```
+<br>
+
 **Languages and Tools:**  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
