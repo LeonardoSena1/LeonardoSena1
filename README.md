@@ -42,8 +42,8 @@ public class AboutMe
 
     public List<string> Technologies { get; set; } = new List<string>
     {
-        "Front - End: HTML, CSS, JS, Angular e Flutter",            
-        "Back - End: .NetCore, C#, JavaScript, Nodejs, TypeScript e Dart",
+        "Front-End: HTML, CSS, JS, Angular e Flutter",            
+        "Back-End: .NetCore, C#, JavaScript, Nodejs, TypeScript e Dart",
         "Mobile: Flutter",
         "SQL Server, MySQL e SQLite",
         "Wordpress",
