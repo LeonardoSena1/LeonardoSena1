@@ -37,6 +37,7 @@ public class AboutMe
         "Aprender algo novo",
         "Passar dias procurando formas de melhorar meu código..",
         "Fazer exercicio físico",
+        "Andar de bike",
         "Jogar"
     };
 
