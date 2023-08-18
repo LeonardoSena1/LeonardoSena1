@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # <a href="https://www.linkedin.com/in/leonardo-bulcao-2b43446a/">Leonardo Oliveira Sena Bulcão</a>
  
 ## About Me
-A partir de 2015, tenho direcionado minha energia para o campo do desenvolvimento de software, concentrando-me principalmente no Desenvolvimento Web, 
+A partir de 2014, tenho direcionado minha energia para o campo do desenvolvimento de software, concentrando-me principalmente no Desenvolvimento Web, 
 que representa minha expertise mais significativa. Minha atuação engloba o espectro completo do desenvolvimento, e tenho uma paixão particular pelo 
 universo das APIs e pelas últimas inovações tecnológicas.
 <br>
