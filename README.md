@@ -77,7 +77,7 @@ public class AboutMe
 ##  Contact Me
 
 <div>
-<a href="mailto:leonardosena24@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:leonardo.oliveira.bulcao@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="mailto:leonardo_sena1@hotmail.com"><img src="https://img.shields.io/badge/outlook-0D69AE?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/leonardo__sena/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.facebook.com/leonardo.seenaa/" target="_blank"><img src="https://img.shields.io/badge/facebook-005799?logo=facebook&logoColor=white&style=for-the-badge" target="_blank"></a>   
