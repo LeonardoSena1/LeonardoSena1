@@ -186,6 +186,6 @@ public class AboutMe
 <a href="mailto:leonardo_sena1@hotmail.com"><img src="https://img.shields.io/badge/outlook-0D69AE?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/_leonardo.code" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.facebook.com/leonardo.seenaa/" target="_blank"><img src="https://img.shields.io/badge/facebook-005799?logo=facebook&logoColor=white&style=for-the-badge" target="_blank"></a>   
-<a href="https://www.linkedin.com/in/leonardo-bulcao-2b43446a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/leonardo-bulcão-2b43446a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 </div>
