@@ -17,50 +17,134 @@ Here are some ideas to get you started:
 
 
 # <a href="https://www.linkedin.com/in/leonardo-bulcao-2b43446a/">Leonardo Bulcão</a>
- 
-# About Me
-Since 2014, I have been directing my energy towards the field of software development, focusing mainly on Web Development, which represents my most significant expertise.
-My work encompasses the complete spectrum of development, and I have a particular passion for the world of APIs and the latest technological innovations.
-<br>
-<br>
-- 🔭 Full-stack developer with 6+ years of experience architecting and building scalable, high-performance web and mobile applications.
-- 🌱Proficient in front-end technologies such as Angular, MVC .NET and Flutter, as well as back-end technologies such as C#, .NET and JavaScript.
-<br>
-<br>
-💻 Developer
+# 👋 Leonardo Bulcão
+
+Full-Stack Developer specialized in ERP integrations, enterprise applications and software architecture.
+
+Since 2014 working with software development, building scalable solutions for Web, Mobile and ERP environments, with strong experience in SAP Business One ecosystem, APIs, integrations, cloud services and modern .NET applications.
+
+Currently focused on:
+
+- SAP Business One AddOns
+- REST APIs
+- Clean Architecture
+- DDD
+- SQL Server & HANA
+- React & Angular
+- Docker & Linux
+- Artificial Intelligence (RAG, Ollama, ChromaDB)
+- Cloud Solutions
+
+## ⚙️ .NET Ecosystem
+
+- .NET Framework
+- .NET Core
+- .NET 8
+- .NET 9
+- .NET 10
+
+## 🏗️ Software Architecture
+
+- Clean Architecture
+- Domain Driven Design (DDD)
+- SOLID Principles
+- CQRS
+- Repository Pattern
+- Dependency Injection
+- Event-Driven Architecture
+- Microservices
+- Multi-Tenant Applications
+- SaaS Platforms
+
+Always looking for cleaner architectures, better performance and scalable solutions.
 <br>
 
 ```csharp
-public class AboutMe
+public class Developer
 {
-    public string Username { get; set; } = "Leonardo";
+    public string Name => "Leonardo Bulcão";
 
-    public List<string> Hobbies { get; set; } = new List<string>
-    {
-        "Listening to music",            
-        "Learning something new",
-        "Spending days looking for ways to improve my code",
-        "Exercising",
-        "Biking",
-        "Gaming"
-    };
+    public string Role => "Full-Stack Developer";
 
-    public List<string> Technologies { get; set; } = new List<string>
-    {
-        "Front-End: HTML, CSS, JS, Angular e Flutter",            
-        "Back-End: .NetCore, C#, JavaScript, Nodejs, TypeScript e Dart",
-        "Mobile: Flutter",
-        "SQL Server, MySQL e SQLite",
-        "Wordpress",
-        "UI Design utilizando Figma/Photoshop"
-    };
+    public string CurrentFocus => ".NET, SAP Business One, APIs, AI and Cloud";
 
-    public string Address()
-    {
-        return "Guarulhos-SP";
-    }
+    public string[] MainTechnologies =>
+    [
+        "C#",
+        ".NET",
+        "React",
+        "Angular",
+        "SQL Server",
+        "SAP Business One",
+        "Docker",
+        "Linux",
+        "Azure",
+        "Artificial Intelligence"
+    ];
+
+    public string[] Interests =>
+    [
+        "Software Architecture",
+        "ERP Integrations",
+        "Clean Code",
+        "DDD",
+        "Cloud Computing",
+        "Artificial Intelligence"
+    ];
 }
 ```
+<br>
+
+## 🏢 SAP Business One
+
+Experience with:
+
+* AddOn Development
+* Service Layer
+* DI API
+* SAP HANA
+* SQL Server
+* ERP Integrations
+* Financial Management
+* Purchasing Management
+* Sales Management
+* Inventory Management
+* Business Partner Management
+* Electronic Invoice Integrations (NF-e)
+* Tax and Fiscal Integrations
+* Custom Reports and Dashboards
+* Business Process Automation
+* Workflow Automation
+* User Defined Fields (UDF)
+* User Defined Objects (UDO)
+* Formatted Searches (FMS)
+* Approval Procedures
+* Crystal Reports
+* SAP Business One SDK
+* Third-Party System Integrations
+* REST APIs
+* Data Migration Projects
+* Performance Optimization
+* Multi-Branch Implementations
+* HANA and SQL Server Query Development
+
+<br>
+
+## 🚀 Enterprise Integrations
+
+* SAP Business One
+* Bling ERP
+* REST APIs
+* Webhooks
+* OAuth Authentication
+* ETL Processes
+* SQL Server
+* SAP HANA
+* Data Synchronization
+* Middleware Development
+* Microservices
+* AI-Powered Solutions
+
 <br>
 
 # 💻 My favorite tools and technologies
@@ -179,6 +263,18 @@ public class AboutMe
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
+## 🤖 Artificial Intelligence
+
+Currently building enterprise AI solutions using:
+
+- Ollama
+- ChromaDB
+- RAG
+- Vector Databases
+- LLM Integrations
+- Knowledge Bases
+- AI Agents
+- Skills
 #  Contact Me
 
 <div>
