@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 
 # <a href="https://www.linkedin.com/in/leonardo-bulcao-2b43446a/">Leonardo Bulcão</a>
-# 👋 Leonardo Bulcão
-
 Full-Stack Developer specialized in ERP integrations, enterprise applications and software architecture.
 
 Since 2014 working with software development, building scalable solutions for Web, Mobile and ERP environments, with strong experience in SAP Business One ecosystem, APIs, integrations, cloud services and modern .NET applications.
